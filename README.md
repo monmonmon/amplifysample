@@ -1,5 +1,9 @@
 # amplifysample
 
+Vue CLI + Amplify のサンプルアプリ
+
+[AWS Amplify で Todo アプリを作ろう！ AWS AppSync ＆ Amazon DynamoDB によるリアルタイムメッセージング](https://aws.amazon.com/jp/blogs/startup/event-report-amplify-handson/)
+
 ## Project setup
 ```
 yarn install
